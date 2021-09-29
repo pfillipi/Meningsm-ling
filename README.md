@@ -1,1 +1,3 @@
-# Meningsm-ling
+# Meningsmåling
+
+En undersøkelsesside for programvareingeniører.
